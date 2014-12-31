@@ -3,9 +3,32 @@
   .NET Core
 
 [![Build status][build-status-image]][build-status]  [![Issue Stats][pull-requests-image]][pull-requests]  [![Issue Stats][issues-closed-image]][issues-closed]
-
-
  
+  .NET Core
+
+[![Build status][build-status-image]][build-status]  [![Issue Stats][pull-requests-image]][pull-requests]  [![Issue Stats][issues-closed-image]][issues-closed]
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+
+ TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
+TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA TEST  CLA 
  
  
  
