@@ -1,4 +1,5 @@
 @echo off
+Test 1 line commit
 setlocal
 
 :: Note: We've disabled node reuse because it causes file locking issues.
